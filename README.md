@@ -3,9 +3,8 @@
 <h1 align="center">👋 Hi! I'm Harry</h1>
 
 <p align="center">
-  Engineering @ SFU <br>
-  Aspiring SWE Intern <br>
-  Building <a href="https://github.com/harryleee/alzheimers-ai">Alzheimer Detection AI</a>
+  Systems Engineering @ SFU <br>
+  Building <a href="https://github.com/hrryy/alzheimers-ai">Alzheimer Detection AI</a>
 </p>
 
 
