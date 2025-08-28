@@ -45,7 +45,6 @@
 ## 📊 Stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=jupyter%20notebook)
 
 <a> 
 
