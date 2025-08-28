@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/harryleee" target="blank">
+ <a href="https://github.com/hrryy" target="blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
  </a>
  <a href="https://linkedin.com/in/harry-lee" target="_blank">
