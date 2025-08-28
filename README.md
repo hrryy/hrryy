@@ -1,12 +1,4 @@
 
-
-<a href="https://komarev.com/ghpvc/?username=harryleee">
-  <img align="right" src="https://komarev.com/ghpvc/?username=harryleee&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-<!-- Wakatime badge (optional if you use it) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id) -->
-
 <!-- Intro -->
 <h1 align="center">👋 Hi! I'm Harry</h1>
 
