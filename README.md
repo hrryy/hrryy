@@ -16,7 +16,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Harry+Lee+SFU">「 Google Me 」</a>
+
     <br>
     「 Systems Engineering Student @ Simon Fraser University 」
     <br>
