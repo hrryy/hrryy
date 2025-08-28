@@ -12,7 +12,7 @@
  <a href="https://github.com/hrryy" target="blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
  </a>
- <a href="https://linkedin.com/in/harry-lee" target="_blank">
+ <a href="https://linkedin.com/in/hrrylee" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="mailto:hhl23@sfu.ca" target="_blank">
