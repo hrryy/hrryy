@@ -44,20 +44,6 @@
 
 
 
-<p align="left">
-  <a href="https://github.com/harryleee?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/harryleee">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harryleee&theme=radical&border=7F3FBF&background=0D1117" alt="Harry's GitHub streak"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/harryleee">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harryleee&theme=radical" alt="Harry Lee's GitHub Contribution"/>
