@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harry </h2>
+<h2 align="left">Hi 👋!  I'm Harry </h2>
 <h2>align="left"> System Engineering @ Simon Fraser University</h2>
 
 ###
