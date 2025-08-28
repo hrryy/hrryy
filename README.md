@@ -9,7 +9,7 @@
 
 <!-- Intro -->
 <h3 align="center">
-  <samp> Hi!, I'm Harry
+  <samp> Hi! I'm Harry
     <b><a target="_blank" href="https://github.com/harryleee">Harry Lee</a></b>
   </samp>
 </h3>
@@ -18,7 +18,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Harry+Lee+SFU">「 Google Me 」</a>
     <br>
-    「 I am a <b>Systems Engineering student</b> from <b>Canada</b> 」
+    「 Systems Engineering Student @ Simon Fraser University 」
     <br>
     <br>
   </samp>
