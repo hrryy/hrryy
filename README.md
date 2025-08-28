@@ -10,7 +10,7 @@
 <!-- Intro -->
 <h3 align="center">
   <samp> Hi! I'm Harry
-    <b><a target="_blank" href="https://github.com/harryleee">Harry Lee</a></b>
+    <b><a target="_blank" href="[https://github.com/harryleee](https://github.com/hrryy)">Harry Lee</a></b>
   </samp>
 </h3>
 
