@@ -42,12 +42,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
 
-[![Alzheimer Detection AI](https://github-readme-stats.vercel.app/api/pin/?username=harryleee&repo=alzheimers-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harryleee/alzheimers-ai)
-[![RISC-V Disassembler](https://github-readme-stats.vercel.app/api/pin/?username=harryleee&repo=riscv-disassembler&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harryleee/riscv-disassembler)
-[![Cache Simulator](https://github-readme-stats.vercel.app/api/pin/?username=harryleee&repo=cache-simulator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harryleee/cache-simulator)
-[![Graduate Admission Program](https://github-readme-stats.vercel.app/api/pin/?username=harryleee&repo=grad-admission&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harryleee/grad-admission)
 
 <p align="left">
   <a href="https://github.com/harryleee?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
