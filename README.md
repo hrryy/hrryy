@@ -8,21 +8,14 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id) -->
 
 <!-- Intro -->
-<h3 align="center">
-  <samp> Hi! I'm Harry
-    <b><a target="_blank" href="[https://github.com/hrryy](https://github.com/hrryy)">Harry Lee</a></b>
-  </samp>
-</h3>
+<h1 align="center">👋 Hi! I'm Harry</h1>
 
-<p align="center"> 
-  <samp>
-
-    <br>
-    「 Systems Engineering Student @ Simon Fraser University 」
-    <br>
-    <br>
-  </samp>
+<p align="center">
+  Engineering @ SFU <br>
+  Aspiring SWE Intern <br>
+  Building <a href="https://github.com/harryleee/alzheimers-ai">Alzheimer Detection AI</a>
 </p>
+
 
 <p align="center">
  <a href="https://github.com/hrryy" target="blank">
