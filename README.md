@@ -4,7 +4,7 @@
 
 <p align="center">
   Systems Engineering @ SFU <br>
-  Building <a href="https://github.com/hrryy/alzheimers-ai">Alzheimer Detection AI</a>
+  Building <a href="https://github.com/hrryy/alzheimers-ai">Neflix Clone</a>
 </p>
 
 
